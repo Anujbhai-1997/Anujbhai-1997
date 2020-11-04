@@ -1,7 +1,7 @@
 ### Hi there, [✰Iαᴍa͢͢͢n𝓊𝖏✰](https://www.linkedin.com/in/anuj-varshney) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="Anuj's" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anujbhai-1997&label=Views&color=blue&style=plastic" alt="Anuj's" /> </p>
 <a href="https://twitter.com/anujgupta191197">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anuj-varshney">
   <img align="left" alt="Anuj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,13 +12,13 @@
 <a href="https://t.me/iamtheAnuj">
   <img align="left" alt="Anuj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/codepur_ka_superhero/">
+<a href="#">
   <img align="left" alt="Anuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100006252165096">
+<a href="https://www.facebook.com/ImtheAnuj/">
   <img align="left" alt="Anuj's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/mtechviral/">
+<a href="#">
   <img align="left" alt="Anuj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -32,7 +32,7 @@
 - :dancers: I’m looking to collaborate on <a href="https://www.newstechnews.in/"> Newstechnews </a>.
 - :thinking: I’m looking for help with VelocityX documentation.
 - :speech_balloon: Ask me about Flutter or any tech related stuff.
-- :mailbox: How to reach me: <a href="https://twitter.com/anujgupta191197">Twitter - @✰Iαᴍa͢͢͢n𝓊𝖏✰</a>, <a href="https://www.facebook.com/profile.php?id=100006252165096">            Facebook - @✰Iαᴍa͢͢͢n𝓊𝖏✰</a> 
+- :mailbox: How to reach me: <a href="https://twitter.com/anujgupta191197">Twitter - @anujgupta191197</a>, <a href="https://www.facebook.com/ImtheAnuj">Facebook - @ImtheAnuj</a> 
 - :smile: Pronouns: He/His
 - :zap: Fun fact: I spend almost 12 hours listening songs everyday
 
@@ -45,25 +45,31 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> 
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/Anujbhai-1997">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujbhai-1997&theme=light&hide_langs_below=1" />
 </a>
 
+<a href="https://github.com/Anujbhai-1997">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anujbhai-1997&show_icons=true&theme=light&line_height=27" alt="Anuj's github stats"/>
 
-![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=Anuj&Varshney&theme=chartreuse-dark&show_icons=true)
+<div align="center">
 
+<!--### Show some :watch: by starring some of the repositories-->
 
-
-
-<!--<a href="https://github.com/iampawan">
+<!--<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujbhai-1997&theme=dark&hide_langs_below=1" />
+</a>
+![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=Anujbhai-1997&theme=chartreuse-dark&show_icons=true)
+<a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<div align="center">-->
+<div align="center">--
 
 
 
