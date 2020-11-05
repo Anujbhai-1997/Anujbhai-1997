@@ -21,7 +21,7 @@
 <a href="#">
   <img align="left" alt="Anuj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
+<img align="right" alt="GIF" src="https://github.com/Anujbhai-1997/Anujbhai-1997/blob/02e741100a85d8b2a8c24bbc9a4ffdc6c6064950/github.jpg" width="310" height="320" />
 <br/>
 <br/>
 
