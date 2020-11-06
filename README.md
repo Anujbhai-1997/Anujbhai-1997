@@ -31,7 +31,7 @@
 - :seedling: I’m currently learning more about <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence </a>.
 - :dancers: I’m looking to collaborate on <a href="https://www.newstechnews.in/"> Newstechnews </a>.
 - :thinking: I’m looking for help with VelocityX documentation.
-- :speech_balloon: Ask me about Flutter or any tech related stuff.
+- :speech_balloon: Ask me about Machine Learning or any tech related stuff.
 - :mailbox: How to reach me: <a href="https://twitter.com/anujgupta191197">Twitter - @anujgupta191197</a>, <a href="https://www.facebook.com/ImtheAnuj">Facebook - @ImtheAnuj</a> 
 - :smile: Pronouns: He/His
 - :zap: Fun fact: I spend almost 12 hours listening songs everyday
